@@ -21,7 +21,7 @@ View(tweets)
 # Query terms
 query <- "GameStop"
 # File location/name
-json_file <- "GameStopStream.json"
+json_file <- "output/GameStopStream.json"
 
 # Collection ---------------------------
 
